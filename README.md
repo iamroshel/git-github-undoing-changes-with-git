@@ -1,4 +1,4 @@
-# Undoing Changes with Git
+# Undoing Changes with Git c
 
 ## Learning Goals
 
